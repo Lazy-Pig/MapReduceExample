@@ -4,3 +4,5 @@
 1.电影推荐系统
 
 问题描述详情请参考http://blog.fens.me/hadoop-mapreduce-recommend/
+
+d算法实现详述可参考我的博客 http://lazy-pig.github.io/
